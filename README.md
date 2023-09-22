@@ -25,7 +25,7 @@ Key Features:
 
 2. **Find**:
 
-    1. Jyoti resonds to commands like *find my purse?*, *check if my watch is in this room?* depending upon whether @Entity is present in the frame of the camers
+    1. alex resonds to commands like *find my purse?*, *check if my watch is in this room?* depending upon whether @Entity is present in the frame of the camers
   
 3. **Read**:
 
@@ -62,8 +62,8 @@ Tech- stacks used:
  Copy and paste the files at thr required position.
  
  ```
-    git clone https://github.com/mansi1710/DobaraMatPuchana
-    cd DobaraMatPuchana
+    git clone https://github.com/Ayaaaankhan/PHIRSEMATPUCH
+    cd PHIRSEMATPUCH
     pip install -r requirements.txt
  ```
  
