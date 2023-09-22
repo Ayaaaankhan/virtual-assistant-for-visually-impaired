@@ -1,6 +1,6 @@
-# DobaraMatPuchana
 
-## **Jyoti** : Assistant for blind
+
+## **Alex** : Assistant for blind
 
 A *voice assistant* specifically aiming towards aiding the visually imapired.
 
@@ -8,7 +8,7 @@ This system is used to help the visually impaired to have access to the most imp
 
 More specifically, the system is a chat bot having features solely dedicated towards development of the visually impaired.
 
-## Fetaures which make "Jyoti" unique:
+## Fetaures which make "Alex" unique:
 
 The system consist of wearable headphones interfaced to Logitech webcam connected to Raspberry PI.
 
@@ -18,9 +18,9 @@ Key Features:
 
 1. **Description**:
   
-    1. Jyoti gives a single line description of the surrounding details
+    1. alex gives a single line description of the surrounding details
     2. *Road Conditions*: Jyoti gives the user an overview of the road conditions, which would further the visually impaired accordingly.
-    3. Jyoti also specifically mentions if the user is at common places like classrooms, kitchens, bedrooms, etc
+    3. alex also specifically mentions if the user is at common places like classrooms, kitchens, bedrooms, etc
     4. Responds the number of people, objects, etc in the frame of the webcam.
 
 2. **Find**:
@@ -29,12 +29,12 @@ Key Features:
   
 3. **Read**:
 
-    1. Jyoti also detects text from images and reads it loud.
+    1. alex also detects text from images and reads it loud.
     2. As a further application it can summarize articles from newspapers. 
     
 4. **Fill forms**
     
-    1. Jyoti also reads out forms (majorly applicable for bank purposes)
+    1. alex also reads out forms (majorly applicable for bank purposes)
     
 5. **Mobile Interactions**
 
@@ -42,7 +42,7 @@ Key Features:
     
 6. **Add ons**
 
-    1. Jyoti serves the basic features of a chat bot i.e. responds to question including time, lighting conditions, basic wh questions, etc.
+    1. alex serves the basic features of a chat bot i.e. responds to question including time, lighting conditions, basic  questions, etc.
     
     
 Tech- stacks used:
